@@ -1,0 +1,24 @@
+{
+  "npmScope": "simple",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "simple-ecommerce": {
+      "tags": []
+    },
+    "simple-ecommerce-e2e": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interface": {
+      "tags": []
+    }
+  }
+}
